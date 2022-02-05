@@ -1,0 +1,4 @@
+#Sat Jan 29 05:30:42 AST 2022
+base.0=C\:\\Users\\Main\\StudioProjects\\poem_writer\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

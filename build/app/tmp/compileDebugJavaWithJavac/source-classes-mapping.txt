@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/poet/sultan/poem_writer/BuildConfig.java
+ com.poet.sultan.poem_writer.BuildConfig
